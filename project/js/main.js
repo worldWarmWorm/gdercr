@@ -6,16 +6,6 @@ $(function () {
         $(this).find('img').attr('src', 'img/menu-slot.svg');
     });
 
-    // var swiper = new Swiper('.swiper-container', {
-    //     pagination: {
-    //       el: '.swiper-pagination',
-    //     },
-    //     loop: true,
-    //     scrollbar: {
-    //         el: '.swiper-scrollbar',
-    //     }
-    //   });
-
     var options = {
         horizontal: 1,
         itemNav: 'basic',
